@@ -1,0 +1,2 @@
+2.2	Create a branch ‘feature’ and make two commits to it.
+2.3	Merge ‘feature’ branch to ‘master’.
