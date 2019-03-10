@@ -6,4 +6,5 @@
 in branch "feature"
 1.5	Make commit with name "add first half of my favorite song" and send it to the server.
 1.6	Make sure there is the file “song.txt”  in github now and it contains a half of the song text.
+second commit
 
