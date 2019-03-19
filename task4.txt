@@ -1,0 +1,1 @@
+4.5	Get initial settings back for remote: pull and push of local repository hit the same remote repository in github.
