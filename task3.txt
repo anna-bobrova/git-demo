@@ -1,2 +1,4 @@
 3.1	Create a branch ‘storm’ 
 and add commit to file ‘storm.txt’:
+3.2	Add 2 more strings in ‘storm.txt’ 
+and make one more commit:
